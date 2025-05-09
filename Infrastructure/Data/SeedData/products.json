@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "Name": "Кружка 'Лесной эльф'",
+    "Description": "Оригинальная кружка ручной работы с изображением лесного эльфа. Идеально для чая и кофе.",
+    "Price": 25.0,
+    "PictureUrl": "images/products/mug_elf.jpg",
+    "MyProperty": 10,
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Ваза 'Дыхание земли'",
+    "Description": "Изящная ваза ручной работы из темной глины. Подчеркнет красоту любого букета.",
+    "Price": 65.0,
+    "PictureUrl": "images/products/vase_earth.jpg",
+    "MyProperty": 15,
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Тарелка 'Солнечный круг'",
+    "Description": "Яркая тарелка ручной росписи с изображением солнца. Отлично подходит для фруктов и десертов.",
+    "Price": 35.0,
+    "PictureUrl": "images/products/plate_sun.jpg",
+    "MyProperty": 12,
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Горшок 'Аромат трав'",
+    "Description": "Небольшой горшок для выращивания трав ручной работы. Создаст уют на вашем балконе.",
+    "Price": 18.0,
+    "PictureUrl": "images/products/pot_herbs.jpg",
+    "MyProperty": 8,
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 5,
+    "Name": "Чайник 'Восточный узор'",
+    "Description": "Изысканный чайник с традиционным восточным орнаментом. Прекрасный подарок для ценителей чая.",
+    "Price": 80.0,
+    "PictureUrl": "images/products/teapot_orient.jpg",
+    "MyProperty": 20,
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Id": 6,
+    "Name": "Кружка 'Ночное небо'",
+    "Description": "Кружка с уникальным дизайном, имитирующим ночное звездное небо.",
+    "Price": 28.0,
+    "PictureUrl": "images/products/mug_night.jpg",
+    "MyProperty": 11,
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Id": 7,
+    "Name": "Ваза 'Абстракция'",
+    "Description": "Современная ваза с абстрактным рисунком, выполненным в технике глазурования.",
+    "Price": 70.0,
+    "PictureUrl": "images/products/vase_abstract.jpg",
+    "MyProperty": 16,
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Id": 8,
+    "Name": "Тарелка 'Морская волна'",
+    "Description": "Тарелка с нежным голубым оттенком, напоминающим морскую волну.",
+    "Price": 38.0,
+    "PictureUrl": "images/products/plate_sea.jpg",
+    "MyProperty": 13,
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Id": 9,
+    "Name": "Горшок 'Альпийская горка'",
+    "Description": "Горшок для цветов, стилизованный под альпийскую горку, с рельефным узором.",
+    "Price": 22.0,
+    "PictureUrl": "images/products/pot_alpine.jpg",
+    "MyProperty": 9,
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Id": 10,
+    "Name": "Чайник 'Гармония'",
+    "Description": "Чайник, излучающий спокойствие и гармонию, с минималистичным дизайном.",
+    "Price": 85.0,
+    "PictureUrl": "images/products/teapot_harmony.jpg",
+    "MyProperty": 21,
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  }
+]
